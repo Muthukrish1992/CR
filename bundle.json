@@ -1,0 +1,23 @@
+{
+    "id": "0f9b040d-2944-48af-e136-b8d6423af092",
+    "author": "",
+    "widgets": [
+        {
+            "id": "CR",
+            "name": "CR",
+            "description": "A sample widget",
+            "icon": "",
+            "tags":[],
+            "category":""
+        }
+    ],
+    "sidebarLinks": [
+        
+    ],
+    "uis": [
+       
+    ],
+    "menuItems": [
+        
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "id": "68891fc9-2508-4740-8ca9-41134943d367",
+    "author": "",
+    "widgets": [
+        {
+            "id": "CR",
+            "name": "CR",
+            "description": "A sample widget",
+            "icon": "",
+            "tags":[]
+            "category":""
+        }
+    ],
+    "sidebarLinks": [
+        {
+            "id": "CRLink",
+            "label": "",
+            "description": "",
+            "target": "",
+            "icon": "",
+            "roles":[]
+        }
+    ],
+    "uis": [
+        {
+            "id": "CRLink",
+            "label":"",
+            "description": "",
+            "roles": []
+        }
+    ],
+    "menuItems": [
+        {
+            "id": "CRLink",
+            "title": "CR"
+        }
+    ]
+}
